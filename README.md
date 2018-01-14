@@ -1,3 +1,7 @@
+This is a refresher I am working on to help me remember my React skills. I will periodically push changes and build up on this application.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
