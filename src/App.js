@@ -29,7 +29,6 @@ class App extends Component {
       {name: event.target.value, age:13},
       {name: 'Dog', age:10}
       ]
-
     });
   };
 
